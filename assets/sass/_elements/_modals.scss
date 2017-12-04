@@ -6,12 +6,15 @@
 }
 .modal.fade.in .modal-dialog {
     @include translate(0,0);
+        width: 100%;
+    
 }
 
 .modal-content {
-    @include border-radius(2px);
+        @include border-radius(2px);
     @include box-shadow(5px 5px 50px 0px rgba(0,0,0,.3));
     border: none;
+    
 }
 
 .modal-header {
@@ -56,7 +59,6 @@
     .modal-dialog {
         margin: 10px;
         width: auto;
-
         .close {
             top: 50%;
             @include translate3d(0,-50%,0);
@@ -72,6 +74,7 @@
 
     &.fade.in .modal-dialog {
         @include translate(0,0);
+        width: 100%;
     }
 }
 
@@ -103,5 +106,6 @@
         text-align: left;
         vertical-align: middle;
         margin-top: 70px;
+        width: 100%;
     }
 }

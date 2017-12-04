@@ -3,18 +3,18 @@
 // Fonts
 // -----------------------------------------
 
-$font-primary: 'Lora',Georgia,serif !default; 
-$font-secondary: 'Poppins',Helvetica,Arial,sans-serif !default;
+$font-primary:'MS Reference Sans Serif'; //'Lora',Georgia,serif !default;
+$font-secondary: 'MS Reference Sans Serif' !default;
 
 $font-sans-serif: false !default;
 
 // Colors
 // -----------------------------------------
 
-$color-primary: #3a6bc4 !default;
+$color-primary: #fabe28 !default; 
 
-// Colors - Basic
-$color-red: #e15757;
+// Colors - Basic 
+$color-red: #e15757; 
 $color-blue: #56aee5;
 $color-orange: #f06a28;
 $color-red: #e15757;
@@ -22,7 +22,7 @@ $color-green: #83bd3f;
 
 $color-white: #fff;
 $color-light: #f5f5f5;
-$color-grey: #f6f6f6;
+$color-grey: #f6f6f6; 
 $color-grey-2: #ededed;
 $color-grey-3: #d2d2d2;
 $color-dark: #242424;

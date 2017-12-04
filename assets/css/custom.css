@@ -1,0 +1,10 @@
+/* line 4, ../sass/custom.scss */
+.topic-icon {
+  background-color: #424242;
+  border-radius: 50%;
+  padding: 5px;
+  color: #fabe28;
+  width: 35px;
+  height: 35px;
+  margin-right: 10px;
+}
