@@ -6,8 +6,11 @@
 }
 .modal.fade.in .modal-dialog {
     @include translate(0,0);
-        width: 100%;
-    
+        width: 100%; 
+                @media #{$screen-min-md} {
+            position: absolute;
+            transform: translateX(-50%);
+        }
 }
 
 .modal-content {

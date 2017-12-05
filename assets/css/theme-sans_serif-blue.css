@@ -55,7 +55,7 @@ body {
   position: relative;
   color: #434343;
   font-size: 15px;
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   font-weight: 400;
   line-height: 1.5;
   overflow-x: hidden;
@@ -2247,7 +2247,7 @@ img {
 
 /* line 73, ../sass/_basics.scss */
 .font-secondary {
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 
 /* line 77, ../sass/_basics.scss */
@@ -2451,7 +2451,7 @@ html[dir="rtl"] .text-right {
 #header {
   position: fixed;
   z-index: 888;
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 /* line 10, ../sass/_header.scss */
 #header.dark {
@@ -2528,7 +2528,7 @@ html[dir="rtl"] .text-right {
 }
 /* line 44, ../sass/_header/_header-vertical.scss */
 #header.header-vertical .logo h4 {
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   font-weight: 100;
   color: rgba(255, 255, 255, 0.5);
   line-height: 1.3;
@@ -3023,7 +3023,7 @@ html[dir="rtl"] .nav-toggle > span {
 }
 /* line 85, ../sass/_header/_header-horizontal.scss */
 #header.header-horizontal .logo h4 {
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   font-size: 14px;
   font-weight: 100;
   color: rgba(255, 255, 255, 0.5);
@@ -3037,7 +3037,7 @@ html[dir="rtl"] .nav-toggle > span {
 /* line 96, ../sass/_header/_header-horizontal.scss */
 #header.header-horizontal .logo .initials {
   font-size: 20px;
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   display: none;
   font-weight: 600;
 }
@@ -3241,7 +3241,7 @@ html[dir="rtl"] .nav-horizontal li > a {
 /* line 18, ../sass/_content/_blog.scss */
 .post ul.post-meta > li {
   display: inline-block;
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   font-size: 12px;
   color: rgba(0, 0, 0, 0.4);
   font-weight: 500;
@@ -3537,7 +3537,7 @@ html[dir="rtl"] .post.single .post-module > .content {
 }
 /* line 280, ../sass/_content/_blog.scss */
 .comments > li .content > .details {
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   font-size: 12px;
   color: rgba(0, 0, 0, 0.4);
 }
@@ -4170,7 +4170,7 @@ html[dir="rtl"] .section-image-edge .image.center {
 /* line 42, ../sass/_content/_timeline.scss */
 .timeline .timeline-event .content .date {
   font-size: 14px;
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   font-weight: 600;
   margin-bottom: 20px;
   display: block;
@@ -4445,7 +4445,7 @@ html[dir="rtl"] .timeline .timeline-event:before {
 /* line 4, ../sass/_elements/_buttons.scss */
 .btn {
   position: relative;
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   font-size: 12px;
   font-weight: 600;
   -moz-border-radius: 40px;
@@ -4540,7 +4540,7 @@ html[dir="rtl"] .timeline .timeline-event:before {
   -moz-border-radius: 0;
   -webkit-border-radius: 0;
   border-radius: 0;
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   font-size: 18px;
   text-transform: none;
   font-weight: 300;
@@ -5117,7 +5117,7 @@ html[dir="rtl"] .timeline .timeline-event:before {
   position: relative;
   display: inline-block;
   padding: 18px 19px;
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 /* line 22, ../sass/_elements/_breadcrumbs.scss */
 .breadcrumb > li + li:before, .breadcrumb > li + li:after {
@@ -5174,7 +5174,7 @@ html[dir="rtl"] .timeline .timeline-event:before {
   top: 0;
   right: 0;
   display: inline-block;
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   font-size: 12px;
   background-color: #fabe28;
   font-weight: 600;
@@ -5318,7 +5318,7 @@ html[dir="rtl"] .contact-popup-ctrl .contact-popup-close {
   float: right;
   font-size: 22px;
   letter-spacing: 0.2em;
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   font-weight: 600;
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=40);
   opacity: 0.4;
@@ -5593,25 +5593,25 @@ html[dir="rtl"] #contact-form .form-status {
 }
 /* line 61, C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/compass-core-1.0.3/stylesheets/compass/css3/_user-interface.scss */
 .form-control:-moz-placeholder {
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   color: inherit;
   opacity: 0.5;
 }
 /* line 64, C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/compass-core-1.0.3/stylesheets/compass/css3/_user-interface.scss */
 .form-control::-moz-placeholder {
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   color: inherit;
   opacity: 0.5;
 }
 /* line 67, C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/compass-core-1.0.3/stylesheets/compass/css3/_user-interface.scss */
 .form-control:-ms-input-placeholder {
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   color: inherit;
   opacity: 0.5;
 }
 /* line 56, C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/compass-core-1.0.3/stylesheets/compass/css3/_user-interface.scss */
 .form-control::-webkit-input-placeholder {
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   color: inherit;
   opacity: 0.5;
 }
@@ -6160,7 +6160,7 @@ textarea.form-control:focus, textarea.form-control:active {
 .badge {
   font-size: 80%;
   padding: 6px 8.5px 5px;
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   font-weight: 600;
   -moz-border-radius: 30px;
   -webkit-border-radius: 30px;
@@ -6173,7 +6173,7 @@ textarea.form-control:focus, textarea.form-control:active {
 
 /* line 16, ../sass/_elements/_labels-badges.scss */
 .label {
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   border: none;
 }
 /* line 25, ../sass/_elements/_labels-badges.scss */
@@ -6294,8 +6294,15 @@ textarea.form-control:focus, textarea.form-control:active {
   transform: translate(0, 0);
   width: 100%;
 }
+@media only screen and (min-width: 992px) {
+  /* line 7, ../sass/_elements/_modals.scss */
+  .modal.fade.in .modal-dialog {
+    position: absolute;
+    transform: translateX(-50%);
+  }
+}
 
-/* line 13, ../sass/_elements/_modals.scss */
+/* line 16, ../sass/_elements/_modals.scss */
 .modal-content {
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
@@ -6306,23 +6313,23 @@ textarea.form-control:focus, textarea.form-control:active {
   border: none;
 }
 
-/* line 20, ../sass/_elements/_modals.scss */
+/* line 23, ../sass/_elements/_modals.scss */
 .modal-header {
   padding: 20px;
 }
-/* line 22, ../sass/_elements/_modals.scss */
+/* line 25, ../sass/_elements/_modals.scss */
 .modal-header > .close {
   margin-top: 7px;
 }
 
-/* line 28, ../sass/_elements/_modals.scss */
+/* line 31, ../sass/_elements/_modals.scss */
 .modal-dialog > .close, .modal-content > .close {
   position: absolute;
   top: 20px;
   right: 20px;
 }
 
-/* line 35, ../sass/_elements/_modals.scss */
+/* line 38, ../sass/_elements/_modals.scss */
 .modal > .close {
   position: absolute;
   top: 25px;
@@ -6330,51 +6337,51 @@ textarea.form-control:focus, textarea.form-control:active {
   color: #fff;
 }
 
-/* line 42, ../sass/_elements/_modals.scss */
+/* line 45, ../sass/_elements/_modals.scss */
 .modal-body {
   padding: 20px;
 }
 
-/* line 46, ../sass/_elements/_modals.scss */
+/* line 49, ../sass/_elements/_modals.scss */
 .modal-footer {
   padding: 20px;
 }
 
-/* line 50, ../sass/_elements/_modals.scss */
+/* line 53, ../sass/_elements/_modals.scss */
 .modal-backdrop.in {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=30);
   opacity: 0.3;
 }
 
 /* Modal Bottom */
-/* line 56, ../sass/_elements/_modals.scss */
+/* line 59, ../sass/_elements/_modals.scss */
 .modal-bottom {
   top: auto;
 }
-/* line 59, ../sass/_elements/_modals.scss */
+/* line 62, ../sass/_elements/_modals.scss */
 .modal-bottom .modal-dialog {
   margin: 10px;
   width: auto;
 }
-/* line 62, ../sass/_elements/_modals.scss */
+/* line 65, ../sass/_elements/_modals.scss */
 .modal-bottom .modal-dialog .close {
   top: 50%;
   -moz-transform: translate3d(0, -50%, 0);
   -webkit-transform: translate3d(0, -50%, 0);
   transform: translate3d(0, -50%, 0);
 }
-/* line 67, ../sass/_elements/_modals.scss */
+/* line 70, ../sass/_elements/_modals.scss */
 .modal-bottom .modal-body {
   padding-right: 40px;
 }
-/* line 71, ../sass/_elements/_modals.scss */
+/* line 74, ../sass/_elements/_modals.scss */
 .modal-bottom.fade .modal-dialog {
   -moz-transform: translate(0, 30px);
   -ms-transform: translate(0, 30px);
   -webkit-transform: translate(0, 30px);
   transform: translate(0, 30px);
 }
-/* line 75, ../sass/_elements/_modals.scss */
+/* line 78, ../sass/_elements/_modals.scss */
 .modal-bottom.fade.in .modal-dialog {
   -moz-transform: translate(0, 0);
   -ms-transform: translate(0, 0);
@@ -6384,22 +6391,22 @@ textarea.form-control:focus, textarea.form-control:active {
 }
 
 /* Modal Video */
-/* line 83, ../sass/_elements/_modals.scss */
+/* line 86, ../sass/_elements/_modals.scss */
 .modal-video {
   text-align: center;
 }
 @media only screen and (max-width: 991px) {
-  /* line 83, ../sass/_elements/_modals.scss */
+  /* line 86, ../sass/_elements/_modals.scss */
   .modal-video {
     text-align: left;
   }
 }
-/* line 90, ../sass/_elements/_modals.scss */
+/* line 93, ../sass/_elements/_modals.scss */
 .modal-video iframe {
   width: 100%;
   display: block;
 }
-/* line 94, ../sass/_elements/_modals.scss */
+/* line 97, ../sass/_elements/_modals.scss */
 .modal-video:before {
   display: inline-block;
   vertical-align: middle;
@@ -6407,12 +6414,12 @@ textarea.form-control:focus, textarea.form-control:active {
   height: 100%;
 }
 @media only screen and (max-width: 991px) {
-  /* line 94, ../sass/_elements/_modals.scss */
+  /* line 97, ../sass/_elements/_modals.scss */
   .modal-video:before {
     display: none;
   }
 }
-/* line 104, ../sass/_elements/_modals.scss */
+/* line 107, ../sass/_elements/_modals.scss */
 .modal-video .modal-dialog {
   display: inline-block;
   text-align: left;
@@ -6430,7 +6437,7 @@ textarea.form-control:focus, textarea.form-control:active {
 }
 /* line 10, ../sass/_elements/_navs.scss */
 .nav-inline li a {
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   text-transform: uppercase;
   padding: 0 9px;
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50);
@@ -6456,7 +6463,7 @@ textarea.form-control:focus, textarea.form-control:active {
 }
 /* line 34, ../sass/_elements/_navs.scss */
 .nav-pills > li > a {
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 11px;
   font-weight: 600;
@@ -6530,7 +6537,7 @@ textarea.form-control:focus, textarea.form-control:active {
 /* line 100, ../sass/_elements/_navs.scss */
 .nav-tabs > li > a {
   position: relative;
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   font-weight: 600;
   font-size: 13px;
   padding: 6px 0;
@@ -6575,7 +6582,7 @@ html[dir="rtl"] .nav-tabs > li:last-child {
   list-style: none;
   padding: 0;
   margin: 0;
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   font-weight: 600;
 }
 /* line 151, ../sass/_elements/_navs.scss */
@@ -6610,7 +6617,7 @@ html[dir="rtl"] .nav-tabs > li:last-child {
 /* Side Navigation */
 /* line 177, ../sass/_elements/_navs.scss */
 .nav-side {
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 /* line 182, ../sass/_elements/_navs.scss */
 .nav-side > li > a {
@@ -6755,7 +6762,7 @@ html[dir="rtl"] .nav-tabs > li:last-child {
   height: 34px;
   text-align: center;
   padding: 9px 3px;
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   font-weight: 600;
   font-size: 13px;
   color: inherit;
@@ -6812,7 +6819,7 @@ html[dir="rtl"] .pagination > li:first-child, html[dir="rtl"] .pagination > li:l
   font-size: 52px;
   font-weight: 600;
   line-height: 1;
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 /* line 21, ../sass/_elements/_price-tables.scss */
 .price-table .content {
@@ -6859,7 +6866,7 @@ html[dir="rtl"] .pagination > li:first-child, html[dir="rtl"] .pagination > li:l
   font-weight: 600;
   padding-right: 15px;
   background-color: #fabe28;
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   -moz-box-shadow: none;
   -webkit-box-shadow: none;
   box-shadow: none;
@@ -6908,19 +6915,19 @@ html[dir="rtl"] .pagination > li:first-child, html[dir="rtl"] .pagination > li:l
 /* Fonts */
 /* line 6, ../sass/_elements/_typography.scss */
 .font-primary {
-  font-family: "MS Reference Sans Serif" !important;
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif !important;
 }
 
 /* line 7, ../sass/_elements/_typography.scss */
 .font-secondary {
-  font-family: "MS Reference Sans Serif" !important;
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif !important;
 }
 
 /* Headings */
 /* line 11, ../sass/_elements/_typography.scss */
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   margin-top: 0;
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   font-weight: 700;
   display: block;
 }
@@ -7035,7 +7042,7 @@ p.lead.text-lg {
 /* Styles */
 /* line 115, ../sass/_elements/_typography.scss */
 em {
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 
 /* Address */
@@ -7052,7 +7059,7 @@ dl dt {
   opacity: 0.5;
   margin-bottom: 4px;
   font-weight: 600;
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 /* line 135, ../sass/_elements/_typography.scss */
 dl dd {
@@ -7076,7 +7083,7 @@ blockquote:before {
   left: 30px;
   font-size: 300px;
   content: '\201D';
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   color: #fff;
   line-height: 1;
   z-index: 0;
@@ -7119,7 +7126,7 @@ blockquote footer .content {
 /* line 196, ../sass/_elements/_typography.scss */
 blockquote footer .content .name {
   font-size: 14px;
-  font-family: "MS Reference Sans Serif";
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   font-weight: 500;
 }
 /* line 202, ../sass/_elements/_typography.scss */
