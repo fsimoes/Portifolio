@@ -6302,7 +6302,7 @@ textarea.form-control:focus, textarea.form-control:active {
   /* line 7, ../sass/_elements/_modals.scss */
   .modal.fade.in .modal-dialog {
     position: absolute;
-    transform: translateX(-50%);
+    transform: translateX(-30%);
   }
 }
 

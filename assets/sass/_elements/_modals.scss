@@ -8,13 +8,13 @@
     @include translate(0,0);
         width: 100%; 
                 @media #{$screen-min-md} {
-            position: absolute;
-            transform: translateX(-50%);
+            position: absolute; 
+            transform: translateX(-35%);
         }
-}
+}    
 
 .modal-content {
-        @include border-radius(2px);
+        @include border-radius(2px); 
     @include box-shadow(5px 5px 50px 0px rgba(0,0,0,.3));
     border: none;
     
@@ -24,10 +24,10 @@
     padding: 20px;
     > .close {
         margin-top: 7px;
-    }
-}
+    } 
+} 
 
-.modal-dialog, .modal-content {
+.modal-dialog, .modal-content { 
     > .close {
         position: absolute;
         top: 20px;
