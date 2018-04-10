@@ -1,3 +1,20 @@
+/* line 8, ../sass/theme-sans_serif-blue.scss */
+#works-list {
+  background-color: white;
+}
+
+/* line 14, ../sass/theme-sans_serif-blue.scss */
+.masonry-item .image-box .image {
+  background-color: white;
+}
+
+/* line 20, ../sass/theme-sans_serif-blue.scss */
+.panel-body a {
+  font-weight: bold;
+  color: #fabe28;
+  text-decoration: underline;
+}
+
 /* -----------------------------------------------------------------------------
 
 Sukces - Neat Personal Resume CV vCard Template

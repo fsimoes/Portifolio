@@ -1,3 +1,18 @@
+/* line 6, ../sass/theme-serif-blue.scss */
+#works-list {
+  background-color: white;
+}
+
+/* line 12, ../sass/theme-serif-blue.scss */
+.masonry-item .image-box .image {
+  background-color: white;
+}
+
+/* line 18, ../sass/theme-serif-blue.scss */
+.panel-body a {
+  font-weight: bold;
+}
+
 /* -----------------------------------------------------------------------------
 
 Sukces - Neat Personal Resume CV vCard Template
@@ -6302,7 +6317,7 @@ textarea.form-control:focus, textarea.form-control:active {
   /* line 7, ../sass/_elements/_modals.scss */
   .modal.fade.in .modal-dialog {
     position: absolute;
-    transform: translateX(-30%);
+    transform: translateX(-35%);
   }
 }
 

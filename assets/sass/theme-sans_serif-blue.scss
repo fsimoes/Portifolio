@@ -1,11 +1,28 @@
 @charset 'UTF-8';
-
 // Fonts:
-$font-primary: 'Roboto', sans-serif;
+$font-primary: 'Roboto',
+sans-serif;
 $font-sans-serif: true;
-
 // Colors:
-$color-primary: #fabe28;// #3a6bc4;
+$color-primary: #fabe28; // #3a6bc4;
+#works-list {
+    background-color: white;
+}
+
+.masonry-item {
+    .image-box {
+        .image {
+            background-color: white;
+        }
+    }
+}
+.panel-body {
+    a {
+        font-weight: bold;
+        color: $color-primary;
+        text-decoration: underline;
+    }
+}
+
 
 @import "_base";
- 
